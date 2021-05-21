@@ -122,6 +122,7 @@ nav{
   max-width:1000px;
   height:inherit;
   overflow: hidden;
+  font-family: 'David Libre', serif;
 }
 
 nav .enlaces a{
@@ -133,11 +134,13 @@ nav .enlaces a{
   text-decoration: none;
   border-bottom: 3px solid transparent;
   color: inherit;
+  font-family: 'David Libre', serif;
 }
 
 nav .enlaces a:hover{
   border-bottom: 3px solid #00eaff;
   transition: 0.6s;
+  font-family: 'David Libre', serif;
 }
 
 .logo, .logo img{ height:80px;}
